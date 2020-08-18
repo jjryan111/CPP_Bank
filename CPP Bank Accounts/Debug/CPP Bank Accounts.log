@@ -1,0 +1,3 @@
+﻿  ValidNum.cpp
+C:\Users\admin13\source\repos\CPP Bank Accounts\CPP Bank Accounts\ValidNum.cpp(21,27): warning C4018: '<': signed/unsigned mismatch
+  CPP Bank Accounts.vcxproj -> C:\Users\admin13\source\repos\CPP Bank Accounts\Debug\CPP Bank Accounts.exe
